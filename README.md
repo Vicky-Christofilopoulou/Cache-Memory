@@ -21,4 +21,5 @@ A mid-range version of the family that uses only one level of cache (L1) for bot
 An advanced version of the family that uses two levels of cache (separate L1 for instructions and data, and a unified L2). Access to main memory on this processor also takes 40 cycles, while accessing the L2 cache takes 5 cycles. The L1 caches are the same as the previous processor (you will keep the design you arrived at, including cost and clock speed). The L2 cache has a size of 16, 32, or 64 KB, and it has the same block size as the L1 caches of the previous processor. You can choose any associativity for the L2 (it can be different from the L1). The write policy and allocation policy should be write back and write allocate, respectively, with LRU replacement. The cost of this processor is 50, 75, or 100 euros higher than the previous one if the L2 cache has a size of 16, 32, or 64 KB, respectively. The clock speed is the same as that of the previous processor.
 
 ## Contributors of the project :
-* sdi2000022 
+* [Eleni Feslian](https://github.com/sdi2000204)
+* [Zannis Vidalis](https://github.com/sdi2000022)
