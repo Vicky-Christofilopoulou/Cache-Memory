@@ -6,7 +6,6 @@
 
 _start:
 
-
 addi $s0, $zero, 0			#counter for first loop
 addi $s1, $zero, 0			#counter for outer loop
 addi $s2, $zero, 0			#counter for inner loop
