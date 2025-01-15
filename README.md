@@ -22,5 +22,5 @@ An advanced version of the family that uses two levels of cache (separate L1 for
 
 ## Contributors of the project :
 * [Zannis Vidalis](https://github.com/ZannisVidalis)
-* [Eleni Feslian](https://github.com/sdi2000204)
+* [Eleni Feslian](https://github.com/EleniFeslian)
 * [Vicky Christofilopoulou]( https://github.com/Vicky-Christofilopoulou )
